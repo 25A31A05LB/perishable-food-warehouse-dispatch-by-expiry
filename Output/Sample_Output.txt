@@ -1,0 +1,19 @@
+
+PERISHABLE FOOD WAREHOUSE DISPATCH SYSTEM
+
+1. Add Food Batch
+2. Display Inventory
+3. Dispatch Food
+4. Exit
+
+Food batch added successfully!
+Food batch added successfully!
+
+Dispatched Food Batch:
+ID: 102
+Food: Bread
+Quantity: 15
+Expiry Date: 2026-11-15
+
+Thank you for using the system!
+
